@@ -1,0 +1,80 @@
+h1 {
+    color: rgba(252, 86, 86, 0.89);
+    font-family: 'Dela Gothic One', cursive;
+}
+
+h2 {
+    color: darkorange;
+    font-family: 'Dela Gothic One', cursive;
+}
+
+h3 {
+   color: #a2b29f;
+   font-family: 'Dela Gothic One', cursive;
+}
+
+p {
+   color: rgb(255, 211, 157); 
+   font-family: 'New Tegomin', serif;
+   font-size: x-large;
+}
+
+  body {
+      background-color: rgb(116, 0, 116);
+      text-align: center;
+  }
+
+.ortala {
+    margin-left: 33%;
+    margin-right: 33%;
+  }
+ 
+
+li{
+    float: left;
+    list-style-type: none;
+    color: darkorange;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    list-style-position: inside;
+
+}  
+
+ul li a {
+    margin-left: 10px;
+    margin-right: 20px;
+    font-size: 15px;
+    color: rgb(40, 240, 13);
+}
+
+#center {
+    margin-left: 26%;
+    margin-right: 15%;
+    font-size: 25px;
+    list-style-type: disc;
+}
+
+
+.ortala2 {
+  
+  
+  text-align: left;
+}
+
+ol li {
+    margin-left: 33%;
+    margin-right: 43%;
+    font-size: 25px;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+a {
+    color: rgb(40, 240, 13);
+}
+
